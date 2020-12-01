@@ -13,4 +13,5 @@ Nonlinear controller is exploitted in non_linear_gain_control.slx (Simulink) .
 Project redistributable only under Apache License . 
 
 ©SM Haider Ali Shuvo
+
 EEE , BUET
