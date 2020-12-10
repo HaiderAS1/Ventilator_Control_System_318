@@ -6,7 +6,7 @@ Paper Link - https://ieeexplore.ieee.org/document/8488683
 
 Linear Controller(Only integral control as suggested in paper) is exploited in linear_controller_code.m (Matlab Code) and linear_controller.slx (Simulink) .
 
-Linear Controller (PID) that meets the specifications are exploited in linear_controller_PID.m(Matlab Code) and linear_controller_PID.slx(Simulink)
+Linear Controller (PID) that meets the specifications are exploited in linear_controller_PID.m(Matlab Code) and linear_controller_PID.slx(Simulink) and linear_controller_PID_Feedforward.slx(Simulink) . The two simulink files differ in the addition of Unity feedforward path or not . This will give a vivid idea of why Unity Feedforward path is necessary and how it helps .
 
 Nonlinear controller is exploitted in non_linear_gain_control.slx (Simulink) .
 
