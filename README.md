@@ -1,6 +1,7 @@
 # Ventilator_Control_System_318
 
 This is Control System 318 ongoing project of Building variable gain Controller for Ventilator . 
+Read the associated PDF to know more .
 
 Paper Link - https://ieeexplore.ieee.org/document/8488683
 
