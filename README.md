@@ -1,7 +1,7 @@
 # Ventilator_Control_System_318
 
 This is Control System 318 ongoing project of Building variable gain Controller for Ventilator . 
-Read the associated PDF to know more .
+Read the associated PDF to know more . (EEE318Project_1606134_140_147_148_151.pdf)
 
 Paper Link - https://ieeexplore.ieee.org/document/8488683
 
@@ -16,6 +16,6 @@ Nonlinear Control's Paper Graph (Fig 14) is Recreated in Non_Linear_Control_Pape
 
 Project redistributable only under Apache License . 
 
-©SM Haider Ali Shuvo
+©S.M.Haider Ali Shuvo
 
 EEE , BUET
